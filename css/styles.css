@@ -1,0 +1,21 @@
+h1 {
+  font-style: oblique;
+  color: #940359;
+  font-size: 55px
+}
+
+h2.intro {
+  font-style: oblique;
+  color: blue;
+  font-size: 40px
+}
+
+p.intro {
+  font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+img.intro {
+  width: 800px;
+}
